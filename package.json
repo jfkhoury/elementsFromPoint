@@ -1,5 +1,5 @@
 {
-    "name": "elementsFromPoint",
+    "name": "elementsfrompoint",
     "description": "Cross browsers `elementsFromPoint` helper.",
     "version": "1.0.0",
     "author": "Joe Khoury <jfkhoury@gmail.com>",
